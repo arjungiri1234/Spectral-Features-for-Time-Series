@@ -1,10 +1,24 @@
 ---
 
+## Libraries Used
+
+- numpy
+- scipy
+- matplotlib
+- pywt (PyWavelets)
+
+
+--- 
+
+
 ## How to Run
 1. Clone the repository
 2. Install dependencies:
-bash
+
+```bash
 pip install numpy scipy matplotlib PyWavelets scikit-image
+```
+
 3. Open `Spectral-features.ipynb` in VS Code or Jupyter
 4. Run all cells
 
